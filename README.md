@@ -14,9 +14,9 @@ This repository contains my individual technical submissions for the Internet of
   * `Alert_State.png` — Motion Detected Diagnostic Capture
 * **Task_3_hardware_prototype/**
   * `IOT_WEATHERCODE.ino` — Live Firmware for NodeMCU ESP8266
-  * `hardware iot weather.jpeg` — Physical System Interfacing Setup
-  * `Screenshot 2026-06-21 002957.png` — Real-Time Cloud Tracking Analytics
-  * `Screenshot 2026-06-21 003024.png` — Live Metrics Ingestion Log
+  * `Hardware_Setup.jpeg` — Physical System Interfacing Setup
+  * `Thingspeak_Real-Time.png` — Real-Time Cloud Tracking Analytics
+  * `Serial_monitor.png` — Live Metrics Ingestion Log
 * `README.md` — Global Documentation Center
 
 ---
