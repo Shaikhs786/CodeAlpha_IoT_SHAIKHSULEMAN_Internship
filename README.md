@@ -61,7 +61,3 @@ All underlying technical architecture design, micro-controller code development,
 * **Shaikh Suleman Daud** (Electronics and Telecommunication Engineering Student)
 
 ---
-
-## 📜 Legal Disclaimer & License
-
-This open-source documentation and engineering library are developed strictly as a validation checkpoint for the **CodeAlpha Technical Internship Program**. All source strings, flow charts, and telemetry maps are open for academic evaluation and research prototyping cycles.
